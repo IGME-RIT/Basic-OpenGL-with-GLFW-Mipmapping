@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLMipmapping", "OpenGLMipmapping.vcxproj", "{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Debug|x64.ActiveCfg = Debug|x64
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Debug|x64.Build.0 = Debug|x64
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Debug|x86.Build.0 = Debug|Win32
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Release|x64.ActiveCfg = Release|x64
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Release|x64.Build.0 = Release|x64
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Release|x86.ActiveCfg = Release|Win32
+		{A52AFDC7-862F-4B7E-AAD5-02619E21FEC1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE56BD8-0058-47BE-B9DF-33007711552E}
+	EndGlobalSection
+EndGlobal
